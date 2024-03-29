@@ -1,0 +1,1 @@
+const SSJ = () => <h1>SSJ</h1>
