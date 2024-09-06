@@ -1,1 +1,1 @@
-const SSJ = () => <h1>SSJ  kjhdjehjch</h1>
+const SSJ = () => <h1>SSJ  hello world</h1>
